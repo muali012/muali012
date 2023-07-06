@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Umair
 =============================================================================================================================
 
-Data Engineer | Data Scientist
 ------------------------------
 
 I am a recent graduate in data and knowledge engineering with two years of professional experience. Proficient in Python and SQL, I have worked on data engineering and data science projects. Currently, I am focusing on familiarizing myself with DevOps and MLOps while practicing on exciting projects
